@@ -75,8 +75,8 @@
 <h2 align='center'>📊 My Github Stats</h2>
 
 <div style="display: flex;">
-    <img width="450px" height="200px" alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mr-ashu&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-    <img width="450px" height="200px" alt="Ashutosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ashu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img width="50%" height="200px" alt="Ashutosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mr-ashu&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+    <img width="50%" height="200px" alt="Ashutosh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ashu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
 <br/>
 <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
