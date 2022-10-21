@@ -15,7 +15,6 @@
 
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on Linkedin
-- 🤔 I’m looking for help with developing AI skills..
 - 💬 Ask me about any MERN related stuff
 - 📫 you can reach me at ashutosh15th@gmail.com
 - 😄 Pronouns: He/Him
