@@ -88,10 +88,7 @@
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-ashu&theme=github_dark" alt="Ashutosh" align = "center"/></p>
 </div>
 
-<div>
-  <!-- <p align='center'><b>📊 Github Contribution Graph</b></p><br/> -->
-  <p align="center"<a href="#"><img alt="Ashutosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mr-ashu&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-</div>
+ 
 
 <div>
   <p align='center'><b>🏆 Github Achievements</b></p><br/>
